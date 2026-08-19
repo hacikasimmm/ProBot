@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "opkainshsmp.dpnds.org",
-    "port": "54918",
+    "port": 54918,
     "version": "",
     "try-creative": false
   },

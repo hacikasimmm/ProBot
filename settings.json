@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "opkainshsmp.aternos.me",
+    "ip": "brooktrout.aternos.host",
     "port": 54918,
     "version": "",
     "try-creative": false

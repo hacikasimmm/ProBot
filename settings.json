@@ -44,7 +44,7 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 1,
       "speed": 20000
     },
@@ -66,7 +66,7 @@
   },
   "combat": {
     "attack-mobs": false,
-    "auto-eat": true
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,

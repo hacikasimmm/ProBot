@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "opkainshsmp.dpdns.org",
+    "ip": "opkainshsmp.aternos.me",
     "port": 54918,
     "version": "",
     "try-creative": false
@@ -44,8 +44,8 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": false,
-      "radius": 1,
+      "enabled": true,
+      "radius": 2,
       "speed": 20000
     },
     "look-around": {
@@ -61,12 +61,12 @@
     "avoidMobs": false,
     "combat": false,
     "beds": false,
-    "chat": false,
+    "chat": true,
     "console-commands": true
   },
   "combat": {
     "attack-mobs": false,
-    "auto-eat": false
+    "auto-eat": true
   },
   "beds": {
     "pick-up-day": false,

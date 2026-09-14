@@ -53,7 +53,7 @@
       "interval": 15000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 20000
     }
   },

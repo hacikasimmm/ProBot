@@ -36,32 +36,32 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
-    "auto-reconnect": false,
-    "auto-reconnect-delay": 5000,
-    "max-reconnect-delay": 120000
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 10000,
+    "max-reconnect-delay": 60000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 3,
       "speed": 10000
     },
     "look-around": {
       "enabled": true,
-      "interval": 10000
+      "interval": 15000
     },
     "random-jump": {
       "enabled": false,
-      "interval": 10000
+      "interval": 20000
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
+    "avoidMobs": false,
+    "combat": false,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {

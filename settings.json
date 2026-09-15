@@ -12,7 +12,7 @@
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": false,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-reconnect-delay": 10000,
     "max-reconnect-delay": 60000
   },
@@ -45,7 +45,7 @@
     "enabled": true,
     "circle-walk": {
       "enabled": false,
-      "radius": 3,
+      "radius": 1,
       "speed": 20000
     },
     "look-around": {
@@ -61,7 +61,7 @@
     "avoidMobs": false,
     "combat": false,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
